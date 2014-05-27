@@ -1,0 +1,8 @@
+MIDlet-1: Hanoi,/image/hanoi.png,UI.Hanoi
+MIDlet-Jar-Size: 18990
+MIDlet-Jar-URL: Hanoi.jar
+MIDlet-Name: Hanoi
+MIDlet-Vendor: jason
+MIDlet-Version: 0.3
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0
